@@ -27,7 +27,7 @@ O objetivo destes desenhos **não é aprovar a estética visual** do sistema, ma
 ![Painel do Participante - Wireframe Visual](./painel_participante_wireframe.png)
 > [!TIP]
 > **Post-it de Proposta (Regra RN01 e UI):** 
-> Para eventos que não permitem cancelamento (como o Congresso de TI), o botão não desaparece da tela, ele fica visível porém bloqueado (com um cadeado).
+> Para eventos que não permitem cancelamento, o botão não desaparece da tela, ele fica visível porém bloqueado (com um cadeado).
 
 > **Questão:** "Para evitar suporte técnico de participantes achando que o botão sumiu por erro no site, desenhamos o botão desabilitado. Vocês concordam com essa abordagem de usabilidade?"
 
