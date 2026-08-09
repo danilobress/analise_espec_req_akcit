@@ -12,7 +12,7 @@ O objetivo destes desenhos **não é aprovar a estética visual** do sistema, ma
 
 ![Checkout com Conflito - Wireframe Visual](./checkout_conflito_wireframe.png)
 > [!IMPORTANT]
-> **Post-it de Proposta (Lacuna DUV07):** 
+> **Post-it de Proposta (Lacuna: Conflito de Horários):** 
 > A UI permite o clique no botão "Continuar mesmo assim", sendo apenas um aviso.
 
 > **Questão:** "Nós desenhamos a tela apenas com um aviso visual. Devemos manter essa permissão, ou o sistema deve bloquear totalmente a ação (sumir com o botão continuar) impedindo a dupla inscrição?"
@@ -40,7 +40,7 @@ O objetivo destes desenhos **não é aprovar a estética visual** do sistema, ma
 
 ![Catálogo de Eventos - Wireframe Visual](./catalogo_eventos_wireframe.png)
 > [!WARNING]
-> **Post-it de Proposta (Lacuna DUV03):** 
+> **Post-it de Proposta (Lacuna: Comportamento da Lista de Espera):** 
 > O texto de apoio afirma a regra de notificação por e-mail e propõe um prazo fictício de 12 horas de SLA (tempo de resposta do usuário).
 
 > **Questão:** "Propusemos aqui que a fila rodará a cada 12 horas e o aviso será via E-mail. Esse prazo faz sentido operacionalmente para a Eventus? Se não, qual o prazo exato que o sistema deve esperar?"
@@ -54,7 +54,7 @@ O objetivo destes desenhos **não é aprovar a estética visual** do sistema, ma
 
 ![Painel do Palestrante - Wireframe Visual](./painel_palestrante_wireframe.png)
 > [!CAUTION]
-> **Post-it de Proposta (Lacuna LGPD):** 
+> **Post-it de Proposta (Lacuna: Privacidade dos Participantes / LGPD):** 
 > Exibimos apenas o Nome e a Empresa do participante (omitindo telefone, CPF e e-mail).
 
 > **Questão:** "Para blindar a empresa contra vazamento de dados (LGPD) através de palestrantes parceiros, nós cortamos a visualização do E-mail. O palestrante de vocês precisa enviar material direto para o participante? Se não, podemos aprovar essa tela restritiva?"
