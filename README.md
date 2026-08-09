@@ -2,7 +2,7 @@
 
 
 ## 🤖 Ferramenta de GenAI Utilizada
-Para a execução desta atividade, utilizei o modelo **Google Gemini** (versão Pro/Flash) por meio do ambiente agentico **Antigravity IDE**.
+Para a execução desta atividade, utilizei o modelo **Google Gemini**.
 
 
 ## 🛠️ Como a IA apoiou as diferentes etapas da atividade
